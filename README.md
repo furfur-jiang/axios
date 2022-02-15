@@ -1,3 +1,22 @@
+# axios工具源码阅读
+
+阅读文件：
+  **lib/utils.js**
+
+附有注释笔记
+
+阅读时参考自：https://juejin.cn/post/7042610679815241758
+
+
+
+
+
+
+
+
+
+
+
 # axios
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
